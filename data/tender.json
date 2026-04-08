@@ -29,7 +29,7 @@
 
       {
         "aspek": "Level Jabatan",
-        "rincian": "Memiliki Jarak Level Maksimal 2 Level dari Jabatan Sasaran.",
+        "rincian": "Memiliki Jarak Level Maksimal 3 Level dari Jabatan Sasaran.",
         "metode": "Mandatory",
         "teknis": "Ya / Tidak",
         "output":""
