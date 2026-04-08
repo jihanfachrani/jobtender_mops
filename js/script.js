@@ -22,7 +22,6 @@ data.jabatan.forEach(j => {
 jabatanTable.innerHTML += `
 <tr>
 <td>${j.jabatan}</td>
-<td>${j.lokasi}</td>
 <td>${j.level}</td>
 <td>${j.jumlah}</td>
 </tr>
