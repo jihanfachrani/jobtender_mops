@@ -29,7 +29,7 @@
 
       {
         "aspek": "Level Jabatan",
-        "rincian": "Memiliki Jarak Level Maksimal 3 Level dari Jabatan Sasaran.",
+        "rincian": "Memiliki Jarak Tingkat jabatan 3 (Tiga) Level dari Jabatan Sasaran.",
         "metode": "Mandatory",
         "teknis": "Ya / Tidak",
         "output":""
@@ -61,7 +61,7 @@
 
       {
         "aspek": "Kompetensi Khusus **",
-        "rincian": "Memiliki kompetensi minimal Approach Control Procedural (APP)",
+        "rincian": "Memiliki Kompetensi Pemandu Lalu Lintas Penerbangan.",
         "metode": "Mandatory",
         "teknis": "Ya / Tidak",
         "output":""
@@ -70,7 +70,7 @@
       
       {
         "aspek": "Skor TOEFL ITP resmi ETS (versi unofficial) **",
-        "rincian": "Memiliki skor TOEFL ITP resmi ETS dengan rincian sebagai berikut:<ol><li>Memiliki skor minimal 500 bagi kandidat dengan jarak tingkat jabatan 2 (dua) level dari jabatan sasaran.</li><li>Memiliki skor minimal 550 bagi kandidat dengan jarak tingkat jabatan 3 (tiga) level dari jabatan sasaran.</li></ol>",
+        "rincian": "Memiliki skor TOEFL ITP resmi ETS minimal 550",
         "metode": "Mandatory",
         "teknis": "Ya / Tidak",
         "output":""
