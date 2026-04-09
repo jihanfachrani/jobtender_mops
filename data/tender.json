@@ -29,7 +29,7 @@
 
       {
         "aspek": "Level Jabatan",
-        "rincian": "Memiliki Jarak Tingkat jabatan 3 (Tiga) Level dari Jabatan Sasaran.",
+        "rincian": "Memiliki Tingkat jabatan 11 (sebelas) atau 3 (Tiga) Level dari Jabatan Sasaran.",
         "metode": "Mandatory",
         "teknis": "Ya / Tidak",
         "output":""
